@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Antic+Slab&family=Montserrat:ital,wght@0,100;0,200;0,300;1,100&display=swap');
+body {
+    font-family: 'Antic Slab', serif;
+    white-space: nowrap;
+    background-color: #f26101
+    
+}
+
+
+header{
+    text-align:  center;
+    background-color: #002f49;
+    color: #fdf0d5;
+    white-space: nowrap;
+    overflow: hidden;
+    border-radius: 20px;
+    box-shadow: 1px 1px 2px black;
+
+    
+    
+ 
+    
+}  
+
+
+header:hover{
+    border-radius: 25px;
+    font-size: 13pt;
+    
+}
+
+ #t1{
+    width: 450px;
+    height: 275px;
+    text-align: center;
+    margin: auto;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+    box-shadow: 1px 1px 2px black;
+    
+}
+
+#t1:hover{
+    background-color: #f26101;
+    
+}
+
+
+main{
+    background-color:#002f49;
+    margin: auto;
+    height: 360px;
+    border-radius: 15pt;
+    width: 100%;
+    box-shadow: 1px 1px 2px black;
+    
+
+
+}
+
+
+
+
+.title {
+    text-align: center;
+    color: white;
+    font-size: 25pt;
+    color: #fdf0d5;
+    text-transform: uppercase;
+    
+}
+
+.title2 {
+    text-align: center;
+    color: #fdf0d5;
+    font-size: 25pt;
+    text-transform: uppercase;
+    
+}
+#t2{
+    width: 270px;
+    height: 110px;
+    text-align: center;
+    margin: auto;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+    background-color:#002f49;
+    box-shadow: 1px 1px 2px black;
+}
+
+#t2:hover{
+    
+    text-align: center;
+    background-color: #002f4900;
+    width: 271px;
+    height: 111px;
+    box-shadow: none;
+
+
+
+}
+
+
+
+a{
+    text-decoration: none;
+    color: white;
+    white-space: nowrap;
+}
+
+footer{
+    text-align: center;
+    color: #fdf0d5;
+    font-size: 15pt;
+    background-color: #002f49;
+    width: 100%;
+    margin: auto;
+    white-space: nowrap;
+    box-shadow: 3px 3px 2px black;
+    border-radius: 5px;
+} 
+
+footer:hover{
+    background-color: #002f4900;
+    box-shadow: none;
+}
+/* #003039 #c1128f #fdf0d5 */
